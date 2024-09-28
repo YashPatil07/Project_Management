@@ -32,16 +32,16 @@ FEATURES:
 API ENDPOINTS:
 
 1.Client Endpoints
-  -> POST /api/clients/ - Register a new client.
-  -> GET /api/clients/ - Fetch the list of all clients.
-  -> GET /api/clients/{client_id}/ - Retrieve a specific client's information.
-  -> PUT /api/clients/{client_id}/ - Update a specific client's information.
-  -> DELETE /api/clients/{client_id}/ - Delete a client.
+  1. POST /api/clients/ - Register a new client.
+  2. GET /api/clients/ - Fetch the list of all clients.
+  3. GET /api/clients/{client_id}/ - Retrieve a specific client's information.
+  4. PUT /api/clients/{client_id}/ - Update a specific client's information.
+  5. DELETE /api/clients/{client_id}/ - Delete a client.
 
 2.Project Endpoints
-  -> POST /api/projects/ - Create a new project and assign users to the project.
-  -> GET /api/projects/{project_id}/ - Retrieve details of a specific project.
-  -> GET /api/projects/user/ - Retrieve the list of projects assigned to the logged-in user.
+  1. POST /api/projects/ - Create a new project and assign users to the project.
+  2. GET /api/projects/{project_id}/ - Retrieve details of a specific project.
+  3. GET /api/projects/user/ - Retrieve the list of projects assigned to the logged-in user.
 
 
   
