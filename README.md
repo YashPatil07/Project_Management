@@ -18,16 +18,16 @@ OVERVIEW:
 FEATURES:
 1. Client Management
 
-  A. Register a new client.
-  B. Retrieve all clients or a specific client.
-  C. Update client information.
-  D. Delete client information.
+  1. Register a new client.
+  2. Retrieve all clients or a specific client.
+  3. Update client information.
+  4. Delete client information.
   
 2. Project Management
 
-  A. Add new projects for a client.
-  B. Assign multiple users to a project.
-  C. Retrieve projects assigned to the logged-in user.
+  1. Add new projects for a client.
+  2. Assign multiple users to a project.
+  3. Retrieve projects assigned to the logged-in user.
 
 API ENDPOINTS:
 
