@@ -1,7 +1,7 @@
 ** Django REST API for User, Client, and Project Management **
 
 OVERVIEW:
-  This project is a Django-based REST API system designed for managing users, clients, and projects.
+This project is a Django-based REST API system designed for managing users, clients, and projects.
   
   The system consists of three primary entities:
   1. User: Registered users who are part of the system.
