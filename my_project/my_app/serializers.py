@@ -1,3 +1,5 @@
+#serializers.py
+# complex data(quertset and model instances) ->convert into -> native python datatypes so that it cant be easily render into JSON
 from rest_framework import serializers
 from django.contrib.auth.models import User
 from .models import Client, Project
